@@ -1,6 +1,5 @@
 # BERT_bridge-damage-NER
-## Named Entity Recognition of Korean bridge inspection report  
-using Bidirectional Encoder Representations from Transformers(BERT) model
+## Named Entity Recognition of Korean bridge inspection report using Bidirectional Encoder Representations from Transformers(BERT) model
 
 
 ### ner_merge_data:  
