@@ -18,3 +18,4 @@
 
 
 Project done by Haksoon Kim, Seoul National University, Civil and Environmental Engineering.
+Contact: bafflesoon@snu.ac.kr
